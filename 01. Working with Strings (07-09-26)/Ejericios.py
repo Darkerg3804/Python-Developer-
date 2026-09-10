@@ -27,6 +27,7 @@ def contar_palindromos(text):
     for palabra in lista_palindromos:
         if (not (palabra in dic)):
             dic[palabra] = lista_palindromos.count(palabra)
+            
 
     return dic
 
