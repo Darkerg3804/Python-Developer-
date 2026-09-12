@@ -86,4 +86,4 @@ ventas = (
 procesadas = Procesamiento_ventas(ventas)
 
 for i in procesadas:
-    print(i)
+    print(i) 
