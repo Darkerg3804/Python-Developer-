@@ -146,9 +146,4 @@ encontrados = filtrar_productos(productos,buscadas)
 
 print(encontrados)
 
-try:
-    10/"2"
-except ValueError:
-    print("error de valor")
-except ZeroDivisionError:
-    print("No se puede dividir entre cero.")
+

@@ -1,0 +1,21 @@
+# EJERCICIO 1 - Crear e importar un módulo
+#
+# Crea un archivo llamado:
+# operaciones.py
+#
+# Dentro de operaciones.py crea las siguientes funciones:
+#
+# - sumar()
+# - restar()
+# - multiplicar()
+# - dividir()
+# - potencia()
+#
+# Luego, en este archivo (ejercicio_01.py):
+#
+# 1. Importa el módulo operaciones.
+# 2. Utiliza todas sus funciones.
+# 3. Muestra los resultados por consola.
+#
+# Objetivo:
+# Practicar la creación de un módulo propio y su importación.

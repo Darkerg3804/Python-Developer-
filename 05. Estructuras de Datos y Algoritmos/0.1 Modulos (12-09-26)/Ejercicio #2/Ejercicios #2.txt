@@ -1,0 +1,26 @@
+Ejercicio 2 — Importaciones selectivas
+
+Crea:
+
+ejercicio_02/
+├── main.py
+└── conversiones.py
+
+conversiones.py debe tener:
+
+celsius_a_fahrenheit()
+fahrenheit_a_celsius()
+km_a_millas()
+millas_a_km()
+kg_a_libras()
+libras_a_kg()
+
+En main.py no puedes importar el módulo completo.
+
+Debes hacer algo como:
+
+from conversiones import ...
+
+y utilizar directamente las funciones.
+
+Objetivo: entender from ... import ....
